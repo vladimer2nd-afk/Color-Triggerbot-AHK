@@ -30,12 +30,12 @@ key_not_move_hold 	:= 	"F5"         ; ; Triggerbot will only scan if "key_hold" 
 key_off		:= 	"F6"		; Triggerbot turn off
 key_gui_hide	:=	"DEL"		; hides gui (gui)		
 key_exit	:= 	"HOME"		; Triggerbot script exit	
-key_hold	:=	"LShift" 		; key that you hold to shoot for you	
+key_hold	:=	"MB5" 		; key that you hold to shoot for you	
  
 ;SETTINGS
 pixel_box	:=	1	; MIN- 3      MAX- 8	
 pixel_sens	:=  100		; Higher Number = more color sensitive; Less Number = less color sensitive 		
-pixel_color	:=	0x79F8FB 	; Pixel Color
+pixel_color	:=	0xff92ff 	; Pixel Color
 tap_time	:=	1		; Delay in MS between shots
 scan_time   :=  100 ; Delay in MS between pixel scanning
  
